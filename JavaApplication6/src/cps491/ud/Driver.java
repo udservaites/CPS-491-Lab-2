@@ -15,6 +15,7 @@ public class Driver {
 		
 
 		System.out.println("Hello World");
+
                 
                 //Create some variables here
                 int beccaRocks = 100;
@@ -22,6 +23,10 @@ public class Driver {
                 String mattIsACoolPartner = "Yea! He is rad!";
                 
                 System.out.println(beccaRocks+cps491IsAwesome);
+
+		
+		System.out.println("Hello Driver.java, This is World");
+
 	}
 
 }
